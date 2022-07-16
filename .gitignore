@@ -1,0 +1,24 @@
+# Project exclude paths
+.idea/*
+**/.idea/*
+*.iml
+.gradle
+local.properties
+**/logs/*
+
+*~
+
+build
+src/jsMain/web
+
+!.idea/runConfigurations
+!.idea/runConfigurations/*
+
+node_modules
+package.json
+
+# Terraform
+.terraform/
+
+
+
